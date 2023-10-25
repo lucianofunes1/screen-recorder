@@ -1,0 +1,15 @@
+{
+    "name": "screen-recorder-assist-ltda",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Luciano Funes",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^27.0.2",
+        "electron-screen-recorder": "^0.0.3"
+    }
+}
